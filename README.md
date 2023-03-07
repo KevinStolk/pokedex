@@ -35,7 +35,7 @@ cd pokedex
 ```bash
 npm install
 
-or
+# or
 
 pnpm install
 ```
@@ -45,7 +45,7 @@ pnpm install
 ```bash
 npm run dev
 
-or
+# or
 
 pnpm run dev
 ```
