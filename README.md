@@ -16,7 +16,7 @@
 ## About
 
 > A Pokedex web application with data regarding different Pokemon from all the current regions, specific data about a pokemon, and a filter to search for a specific pokemon.
-> The application is made with ReactJS, Typescript, Axios and uses the PokéAPI to retrieve data.
+> The application is made with ReactJS, TailwindCSS, Typescript, Axios and uses the PokéAPI to retrieve data.
 
 ## Installation/Instructions
 
